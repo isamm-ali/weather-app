@@ -16,7 +16,7 @@ HTTP package
 
 ⚙️ Setup Instructions
 1-Clone the repository
-git clone link
+git clone https://github.com/isamm-ali/weather-app
 
 2-Navigate to the project directory
 cd flutter-weather-app
